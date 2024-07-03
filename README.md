@@ -21,7 +21,7 @@ To do it yourself, you'll need:
 - 2x 2.2kΩ resistor
 - 1x 470Ω resistor
 - 1x 220Ω resistor
-- 1x 30Ω resistor
+- 1x 33Ω resistor
 - 1x 10Ω resistor
 - 2x LED
 - 1x 1N4148 diode

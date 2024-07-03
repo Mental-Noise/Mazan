@@ -6,16 +6,18 @@ Mazan is a simple Rapsberry pico based MIDI-USB Interface.
 
 Without any surprise, it does 2 things:
 - it receives MIDI commands from a MIDI device and send them to your computer via USB
-- it receives MIDI commabds from your computer via USB and send them to a MIDI device
+- it receives MIDI commands from your computer via USB and send them to a MIDI device
 
 ## Hardware
 
 This project is based on the [Adafruit MIDI featherwing](https://learn.adafruit.com/adafruit-midi-featherwing/overview), you can either use that module or build it yourself following this guide.
 
+### BOM
+
 To do it yourself, you'll need:
 - 1x Raspberry pico (or RP2040-zero for smaller factor)
-- 1x H11L1 optcoupler
-- 2x MIDI DIN 5 pins connector or stereo jack or both
+- 1x H11L1 optocoupler
+- 2x MIDI DIN 5 pins connector (or stereo/TRS jack or both depending on your preferences)
 - 2x 2.2kΩ resistor
 - 1x 470Ω resistor
 - 1x 220Ω resistor
@@ -23,6 +25,8 @@ To do it yourself, you'll need:
 - 1x 10Ω resistor
 - 2x LED
 - 1x 1N4148 diode
+
+### Schematics
 
 Schematics coming soon...
 

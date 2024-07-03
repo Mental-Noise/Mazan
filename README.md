@@ -1,6 +1,6 @@
 # Mazan
 
-![IMG_20240703_221504](https://github.com/Mental-Noise/Mazan/assets/894203/a65d2aa6-3a61-4464-b632-dcac74d6f91a)
+![Mazan - Mental Noise - Raspberry Pico based MIDI USB Interface](https://github.com/Mental-Noise/Mazan/assets/894203/a65d2aa6-3a61-4464-b632-dcac74d6f91a)
 
 Mazan is a simple Rapsberry pico based MIDI-USB Interface.
 
@@ -28,7 +28,7 @@ To do it yourself, you'll need:
 
 ### Schematics
 
-Schematics coming soon...
+![Mazan scehmatic - Mental Noise - Raspberry Pico based MIDI USB Interface](./schematic.png)
 
 ## Software
 

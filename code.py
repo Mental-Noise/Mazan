@@ -19,6 +19,7 @@ while True:
             midi_out.write(uart.read(uart.in_waiting))
             
         msg = midi_in.read()
+        
         if msg:
             # Send received MIDI message from USB MIDI to external device via UART
             uart.write(msg)

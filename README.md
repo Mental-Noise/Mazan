@@ -55,6 +55,6 @@ You're done.
 
 You can use tools like [MIDIView](https://hautetechnique.com/midi/midiview/) to check the messages coming from any USB MIDI interface, it helps to see if the MIDI IN part is working.
 
-You can use tools like [VMPK](https://vmpk.sourceforge.io/), a virtual MIDI piano keyboard to send commands from your computer to a MIDI device connected to any USB MIDI interface.
+You can use tools like [VMPK](https://vmpk.sourceforge.io/), a virtual MIDI piano keyboard to send commands from your computer to a MIDI device connected to any USB MIDI interface, it helps to see if the MIDI OUT part is working.
 
 If either of the MIDI connections is not working, try switching the connector cables, sometimes it really is that easy.

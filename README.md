@@ -2,7 +2,7 @@
 
 ![Mazan - Mental Noise - Raspberry Pico based MIDI USB Interface](https://github.com/Mental-Noise/Mazan/assets/894203/a65d2aa6-3a61-4464-b632-dcac74d6f91a)
 
-Mazan is a simple Rapsberry pico based MIDI-USB Interface.
+Mazan is a simple Raspberry pico based MIDI-USB Interface.
 
 Without any surprise, it does 2 things:
 - it receives MIDI commands from a MIDI device and send them to your computer via USB
